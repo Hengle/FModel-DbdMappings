@@ -107,8 +107,20 @@
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/8.5.2/Mappings.usmap",
     "fileName": "DBD-8.5.2.usmap"
   },
+  "9.0.0_ptb": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.0.0_ptb/Mappings.usmap",
+    "fileName": "DBD-9.0.0_PTB.usmap"
+  },
+  "9.1.0_ptb": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.1.0_ptb/5.4.4-2538502+++DeadByDaylight+Lasagna_PTB-DeadByDaylight.usmap",
+    "fileName": "DBD-9.1.0_PTB.usmap"
+  },
+  "9.1.3": {
+    "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.1.3/5.4.4-2682464+++DeadByDaylight+Lasagna_HF3-DeadByDaylight.usmap",
+    "fileName": "DBD-9.1.3.usmap"
+  },
   "9.2.0_ptb": {
     "url": "https://masusder.github.io/FModel-DbdMappings/Mappings/9.2.0_ptb/5.4.4-2714067+++DeadByDaylight+Maple_PTB-DeadByDaylight.usmap",
-    "fileName": "5.4.4-2714067+++DeadByDaylight+Maple_PTB-DeadByDaylight.usmap"
+    "fileName": "DBD-9.2.0_PTB.usmap"
   }
 }
